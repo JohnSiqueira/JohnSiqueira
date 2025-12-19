@@ -3,19 +3,14 @@
 </h1>
 
 <label>
-  <img src="https://img.shields.io/badge/John_Siqueira-Developer-69050f?style=for-the-badge" href="#">
+  <img src="https://img.shields.io/badge/John_Siqueira-Estudante-69050f?style=for-the-badge" href="#">
 <label>
-<!--
-**JohnSiqueira/JohnSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+ <li>💻 Cursando Ciências da Computação;</li>
+ <li>📚 Estudando LibGDX em Java e Selenium em Python;</li>
+ <li>📧 Contato: <code>jpsiqueira.rezende@gmail.com</code>;</li>
+ <li>🎮 Gosto de jogos, tocar violão, animes e desenhar;</li>
+</ul>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
