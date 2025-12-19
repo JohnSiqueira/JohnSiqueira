@@ -1,6 +1,6 @@
 <header>
   <h1 align="center"> 
-  <a href="#"><img margin="0" height="120em" src="./assests/images/hot-coffee.gif"></a> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&pause=1000&color=d6a289&center=true&vCenter=true&width=600&height=100&lines=Olá,+me+chamo+João+Pedro;Curso+Ciências+da+Computação;Seja+bem-vindo!" /> </a> <a href="#"><img margin="0" height="120em" src="./assests/images/hot-coffee.gif"> </a>
+  <a href="#"><img margin="0" height="100em" src="./assests/images/hot-coffee.gif"></a> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&pause=1000&color=d6a289&center=true&vCenter=true&width=600&height=100&lines=Olá,+me+chamo+João+Pedro;Curso+Ciências+da+Computação;Seja+bem-vindo!" /> </a> <a href="#"><img margin="0" height="100em" src="./assests/images/hot-coffee.gif"> </a>
   </h1>
 </header>
 <main>
