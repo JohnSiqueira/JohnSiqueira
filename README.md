@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center"> 
+  ☕ <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&pause=1000&color=d6a289&center=true&vCenter=true&width=600&height=100&lines=Olá,+me+chamo+João+Pedro;Curso+Ciências+da+Computação;Seja+bem-vindo!" /> ☕
+</h1>
 
 <!--
 **JohnSiqueira/JohnSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
