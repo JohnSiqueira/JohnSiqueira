@@ -11,6 +11,18 @@
  <li>📧 Contato: <code>jpsiqueira.rezende@gmail.com</code>;</li>
  <li>🎮 Gosto de jogos, tocar violão, animes e desenhar;</li>
 </ul>
+<h3
+ <p align="center">
+  <a href="https://open.spotify.com/playlist/4ZIa6AcMkr5giKUj2Sdu8w">
+    <img src="https://novatide.vercel.app/api/spotify?background_color=121212&link_color=1db954&text_color=ffffff" alt="Spotify" />
+  </a>
+</p>
+<h3>
+<h2 align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnSiqueira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSiqueira&layout=compact&theme=onedark"/>
+</h2>
 
-##
-
+<label align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql" />
+</label>
