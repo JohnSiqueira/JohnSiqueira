@@ -22,6 +22,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql" />
 </p>
 </article>
